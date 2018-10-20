@@ -1,0 +1,10 @@
+C:\Users\pleyu\source\repos\Bloques\Bloques\bin\Debug\Bloques.exe.config
+C:\Users\pleyu\source\repos\Bloques\Bloques\bin\Debug\Bloques.exe
+C:\Users\pleyu\source\repos\Bloques\Bloques\bin\Debug\Bloques.pdb
+C:\Users\pleyu\source\repos\Bloques\Bloques\obj\Debug\Bloques.csprojAssemblyReference.cache
+C:\Users\pleyu\source\repos\Bloques\Bloques\obj\Debug\Bloques.Form1.resources
+C:\Users\pleyu\source\repos\Bloques\Bloques\obj\Debug\Bloques.Properties.Resources.resources
+C:\Users\pleyu\source\repos\Bloques\Bloques\obj\Debug\Bloques.csproj.GenerateResource.cache
+C:\Users\pleyu\source\repos\Bloques\Bloques\obj\Debug\Bloques.csproj.CoreCompileInputs.cache
+C:\Users\pleyu\source\repos\Bloques\Bloques\obj\Debug\Bloques.exe
+C:\Users\pleyu\source\repos\Bloques\Bloques\obj\Debug\Bloques.pdb
