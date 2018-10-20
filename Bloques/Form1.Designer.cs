@@ -47,11 +47,13 @@
             // 
             // button1
             // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(0, 0);
+            this.button1.Margin = new System.Windows.Forms.Padding(0);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(50, 50);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "15";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.Mover);
             // 
@@ -199,6 +201,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(201, 201);
             this.Controls.Add(this.button12);
             this.Controls.Add(this.button8);
@@ -215,8 +218,10 @@
             this.Controls.Add(this.button9);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button1);
+            this.KeyPreview = true;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.KeyUps);
             this.ResumeLayout(false);
 
         }
